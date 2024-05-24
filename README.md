@@ -1,6 +1,6 @@
-# HDC: Hierarchical Semantic Decoding with Counting Assistance for Generalized Referring Expression Segmentation
+# ✂HDC: Hierarchical Semantic Decoding with Counting🔢 Assistance for Generalized Referring Expression Segmentation
 
-[Zhuoyan Luo*](https://robertluo1.github.io/), Yinghao Wu*, [Yong Liu](https://workforai.github.io/), [Yicheng Xiao](https://easonxiao-888.github.io/), [Xiao-Ping Zhang](https://sites.google.com/view/xiaopingzhang/home), [Yujiu Yang](https://scholar.google.com.hk/citations?user=4gH3sxsAAAAJ&hl=th)
+[Zhuoyan Luo*](https://robertluo1.github.io/), [Yinghao Wu*](https://scholar.google.com/citations?user=lg9s6u8AAAAJ&hl=en), [Yong Liu](https://workforai.github.io/), [Yicheng Xiao](https://easonxiao-888.github.io/), [Xiao-Ping Zhang](https://sites.google.com/view/xiaopingzhang/home), [Yujiu Yang](https://scholar.google.com.hk/citations?user=4gH3sxsAAAAJ&hl=th)
 
 Tsinghua University
 
