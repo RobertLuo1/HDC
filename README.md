@@ -8,7 +8,7 @@ Tsinghua University
 
 ## 🔥 Updates
 
-- [2024/05/25] The code is coming soon.
+- [2024/05/27] The code is coming soon.
 
 ## 📖 Abstract
 The newly proposed Generalized Referring Expression Segmentation (GRES) amplifies
@@ -47,4 +47,7 @@ methods by a remarkable margin.
 
 ## ❤️ Acknowledgement
 Code in this repository is built upon several public repositories. Thanks for the wonderful work [ReLA](https://github.com/henghuiding/ReLA)! !
+
+
+
 
