@@ -4,7 +4,7 @@
 
 Tsinghua University
 
-<a href='https://arxiv.org/pdf/2405.15658'><img src='https://img.shields.io/badge/ArXiv-2305.17011-red'></a>
+<a href='https://arxiv.org/pdf/2405.15658'><img src='https://img.shields.io/badge/ArXiv-2405.15658-red'></a>
 
 ## 🔥 Updates
 
