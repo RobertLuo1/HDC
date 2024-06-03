@@ -6,6 +6,8 @@ Tsinghua University
 
 <a href='https://arxiv.org/pdf/2405.15658'><img src='https://img.shields.io/badge/ArXiv-2405.15658-red'></a>
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hdc-hierarchical-semantic-decoding-with-1/generalized-referring-expression-segmentation)](https://paperswithcode.com/sota/generalized-referring-expression-segmentation?p=hdc-hierarchical-semantic-decoding-with-1)
+
 ## 🔥 Updates
 
 - [2024/05/27] The code is coming soon.
@@ -47,6 +49,17 @@ methods by a remarkable margin.
 
 ## ❤️ Acknowledgement
 Code in this repository is built upon several public repositories. Thanks for the wonderful work [ReLA](https://github.com/henghuiding/ReLA)! !
+
+## ⭐️ BibTeX
+if you find it helpful, please cite
+```
+@article{luo2024hdc,
+  title={HDC: Hierarchical Semantic Decoding with Counting Assistance for Generalized Referring Expression Segmentation},
+  author={Luo, Zhuoyan and Wu, Yinghao and Liu, Yong and Xiao, Yicheng and Zhang, Xiao-Ping and Yang, Yujiu},
+  journal={arXiv preprint arXiv:2405.15658},
+  year={2024}
+}
+```
 
 
 
